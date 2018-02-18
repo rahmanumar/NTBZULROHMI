@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NTB Gemilang</string>
+    <string name="title_activity_profil">Profil</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="ipsum">Ipsum ante nec quam gravida montes. \nNunc aenean egestas lobortis blandit molestiae. \nJusto etiam mi. Viverra justo lectus et mattis con sem pulvinar imperdiet. \nEst elementum vestibulum lacus dolor tempus. Risus ipsum blandit. Ac integer quisque. Volutpat metus etiam. Turpis porta fermentum. Massa eu feugiat. Tempus ..</string>
+</resources>

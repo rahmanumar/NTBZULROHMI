@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2473d4</color>
+    <color name="colorPrimaryDark">#25389f</color>
+    <color name="colorAccent">#2473d4</color>
+    <color name="button">#a19fa0</color>
+    <color name="gal_d">#f9000000</color>
+
+    <color name="ColorPrimary">#2473d4</color>
+    <color name="ColorPrimaryDark">#dedede</color>
+    <color name="tabsScrollColor">#fdfdfd</color>
+</resources>
